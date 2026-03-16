@@ -1,6 +1,6 @@
 # Hi, I'm Riyon 👋
 
-**Computer Science Student @ University of South Florida** · Class of 2027
+**Computer Science Student @ University of South Florida**
 
 I build full-stack web applications focused on automation, security, and clean API design. Currently working on **Student Connect** — a production-grade sync engine bridging Canvas LMS, Todoist, and Notion with RSA encryption and OAuth 2.0.
 
