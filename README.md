@@ -2,7 +2,7 @@
 
 **Computer Science Student @ University of South Florida**
 
-I build full-stack web applications focused on automation, security, and clean API design. Currently working on **Student Connect** — a production-grade sync engine bridging Canvas LMS, Todoist, and Notion with RSA encryption and OAuth 2.0.
+I build full-stack web applications and developer tools focused on automation, security, and clean API design.
 
 ---
 
@@ -15,21 +15,31 @@ I build full-stack web applications focused on automation, security, and clean A
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
+
+**[Probe](https://github.com/riyonp23/Probe)** — AI-powered codebase Q&A from the terminal
+
+`TypeScript` · `Tree-sitter` · `RAG` · `HuggingFace` · `Vectra` · `AES-256-GCM`
+
+> CLI tool that indexes any repo (local or GitHub link), chunks code by AST boundaries, embeds locally, and streams answers with file + line citations. 5 LLM providers supported — Gemini is free.
+
+---
 
 **[Student Connect](https://github.com/riyonp23/Student_Connect)** — Full-stack automation bridge syncing Canvas LMS → Todoist & Notion
+
 `React 18` · `Flask` · `MongoDB` · `RSA-2048` · `JWT` · `OAuth 2.0` · `APScheduler`
 
 > 20+ active users · 99.9% sync accuracy · Zero-Trust encryption · Passwordless auth
 
+---
 
 ### 📬 Let's Connect
 
