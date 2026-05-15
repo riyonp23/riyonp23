@@ -18,6 +18,10 @@ I build full-stack web applications and developer tools focused on automation, s
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ---
 ### 🚀 Featured Projects
+**[Drift](https://github.com/riyonp23/Drift)** — A floating developer notepad for Windows with offline AI and FTS5 search · [Download](https://github.com/riyonp23/Drift/releases)
+`Electron` · `React 18` · `TypeScript` · `SQLite FTS5` · `CodeMirror` · `Transformers.js`
+> Offline on-device AI inference · Sub-millisecond SQLite FTS5 search · Six-window IPC architecture · Always-on-top floating notes · Zero network requests at runtime
+---
 **[CourtSide](https://github.com/riyonp23/CourtSide)** — NCAA D1 Men's Volleyball analytics dashboard with AI match predictions · [Live Demo](https://court-side-client.vercel.app)
 `React 18` · `TypeScript` · `Fastify` · `PostgreSQL` · `Prisma` · `WebSocket` · `Recharts`
 > 71 teams · 329+ players · Weighted logistic regression predictor across 7 features · Real-time NCAA data pipeline · Coaches Poll rankings · Conference standings · Player comparison with radar charts
